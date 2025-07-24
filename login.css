@@ -1,0 +1,73 @@
+body {
+  background-image: "C:\Users\ADIGUNS\Pictures\seun highland\fcb2.jpg";
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: fixed;
+  justify-content: middle;
+  background-color: #C04000;
+}
+
+form{
+	background-color: #800020;
+	
+	vertical-align: middle;
+	display: inline-black;
+	width: 450px;
+	padding: 10px;
+	justify-content: space-between;
+	padding-top: 20px;
+	border: 3px;
+	border-style: outset;
+	border-bottom-color: cyan;
+	border-left-color: wine;
+	border-right-color: #023020;
+	border-top-color: #FFD700;
+	position: middle;
+
+}
+
+.image{
+	display: image, flex;
+	height: 80px;
+	width: 80px;
+	border-radius: 50px;
+	background-color: gray;
+	margin-left: 185px;
+}
+
+img{
+	display: fill;
+	border-radius: 40px;
+	height: 80px;
+	width: 80px;
+	}
+input{
+	padding-right: 100px;
+	align-items: center;
+	display: flex-wrap;
+	flex-direction: column;
+	height: 40px;
+	width: 300px;
+	padding:5px;
+	gap: 5px;
+	display: flex;
+    flex-direction: column;
+	justify-content: space-between, 15px;
+	border-left: 1px;
+	border-radius: 15px;
+	border-style: outside;
+	border-color: #DC143C;
+	margin-top: 10PX;
+}
+
+button{
+	height: 60px;
+	width: 250px;
+	background-color: #00FF7F;
+	border-radius: 35px;
+	
+}
+
+.button.hover{
+	color: cyam;
+}
